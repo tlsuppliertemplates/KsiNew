@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"4438fe63","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"bhaskarm@keyusa.com","afterSubmitCcEmail":"denny@keyusa.com","afterSubmitBccEmail":"travis@symbolscape.com","afterSubmitEmailSubject":"PCS FORM FILL: Request for Strategy Session","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Please fill up the above captcha.","confirmationUrl":""}, '.uagb-block-4438fe63', 61 );
+});
+ });
