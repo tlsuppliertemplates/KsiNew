@@ -4816,7 +4816,6 @@ a.uagb-infbox__link-to-all {
     overflow: visible;
     border-color: inherit;
     background-color: var(--ast-global-color-6);
-    ;
     row-gap: 0px;
     column-gap: 72px;
 }
