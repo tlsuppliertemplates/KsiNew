@@ -41,7 +41,7 @@ class Header extends HTMLElement {
                 <div class="col-xs-12 col-sm-9 col-md-8 col-lg-7">
                 <div class="top-bar-lnks"> <span class="top_call">Call : <a href="tel:+15104564500"> +1-510-456-4500</a></span>
                     <ul>
-                    <li><a href="https://www.keyusa.com/blog" target="_blank">Blog</a></li>
+                    <li><a href="blog" target="_blank">Blog</a></li>
                     <li><a href="careers.html">Careers</a></li>
                     
                     <li><a href="upcoming-events.html">Upcoming Events</a></li>
@@ -167,7 +167,7 @@ class Header extends HTMLElement {
                      
               <li><a href="contactus.html">Contact Us</a></li>
               <li><a href="demo.html">Request Demo</a></li>
-              <li><a href="https://www.keyusa.com/blog" target="_blank">Blog</a></li>
+              <li><a href="blog" target="_blank">Blog</a></li>
               <li><a href="careers.html">Careers</a></li>
               <li><a href="resources.html">Resources</a></li>
               <li><a href="upcoming-events.html">Upcoming Events</a></li>
