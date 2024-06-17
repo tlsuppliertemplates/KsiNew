@@ -887,9 +887,13 @@ a.uagb-infbox__link-to-all {
 }
 
 .uagb-buttons__outer-wrap.uagb-btn__extralarge-btn .uagb-buttons-repeater {
-    padding: 30px 0;
-    width: 350px;
+    padding: 15px 0;
+    width: 210px;
     display: block;
+    background: #890000 !important;
+    border: none !important;
+    border-radius: 30px !important;
+    font-size: 18px !important;
 }
 
 @media (max-width: 976px) {
@@ -2286,7 +2290,9 @@ select::before {
 .uagb-block-wowf7qxl .uagb-ifb-title {
     font-size: 31px;
 }
-
+.uagb-block-wowf7qxl .uagb-ifb-title1{
+    color: #444;
+}
 .uagb-block-wowf7qxl .uagb-ifb-desc {
     font-size: 17px;
 }
@@ -4063,4 +4069,14 @@ label span{
 }
 .hs-form label span{
     color: #fff;
+}
+.form_head {
+    color: #444 !important;
+    font-size: 18px !important;
+    font-family:'Roboto-Medium' !important;
+    font-size: 20px;
+    margin-bottom:0 !important;
+    padding: 0;
+    width: 100%;
+    line-height: 26px;
 }
